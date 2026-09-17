@@ -1,14 +1,9 @@
 node_modules/
 .next/
 .next-app/
-out/
 test-results/
 playwright-report/
-*.log
-.env*
-!.env.example
-.DS_Store
-Thumbs.db
 coverage/
-
-.vercel
+*.log
+tools/
+tests/
