@@ -1,0 +1,22 @@
+{
+  "hero": {
+    "eyebrow": "/ Full-Stack Developer",
+    "name": "Rahul Yadav",
+    "tagline": {
+      "primary": "Building quietly",
+      "secondary": "from Gurugram, Haryana"
+    },
+    "ctaLabel": "Get in touch",
+    "portraitImage": "/hero-portrait-cutout.png",
+    "hud": {
+      "statusWords": [
+        "BUILDING",
+        "LEARNING",
+        "SHIPPING"
+      ],
+      "codingSinceYear": "2020",
+      "locationLabel": "Gurugram / GMT +5:30",
+      "timeZone": "Asia/Kolkata"
+    }
+  }
+}

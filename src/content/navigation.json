@@ -1,0 +1,31 @@
+{
+  "nav": {
+    "wordmark": {
+      "logo": "/rahul-logo.png",
+      "alt": "Rahul Yadav",
+      "homeAriaLabel": "Home"
+    },
+    "links": [
+      {
+        "label": "Career",
+        "href": "/about#career",
+        "side": "left"
+      },
+      {
+        "label": "About",
+        "href": "/about",
+        "side": "left"
+      },
+      {
+        "label": "Projects",
+        "href": "/projects",
+        "side": "right"
+      },
+      {
+        "label": "Achievements",
+        "href": "/achievements",
+        "side": "right"
+      }
+    ]
+  }
+}

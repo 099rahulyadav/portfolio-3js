@@ -1,0 +1,16 @@
+{
+  "overviewLabel": "Project Overview",
+  "metaLabels": {
+    "role": "Role",
+    "year": "Year",
+    "stack": "Stack",
+    "note": "Note"
+  },
+  "viewRepository": "View Repository",
+  "launchWebsite": "Launch Website",
+  "githubLabel": "GitHub",
+  "scrollCue": "Scroll",
+  "heroPlaceholder": "Hero image — coming soon",
+  "galleryPlaceholder": "Gallery — coming soon",
+  "nextProjectLabel": "Next project"
+}

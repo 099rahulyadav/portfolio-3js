@@ -1,0 +1,158 @@
+{
+  "projects": [
+    {
+      "num": "01",
+      "slug": "apsaraa",
+      "name": "Apsaraa",
+      "description": "Full-stack photo sorting application that filters target photos from a Google Drive collection using a reference image.",
+      "stack": ["React", "Vite", "Tailwind CSS", "Python", "Google Drive API"],
+      "repo": "https://github.com/099rahulyadav/Apsaraa",
+      "logo": "/projects/apsaraa/ap-icon.png",
+      "accent": "#22b14c",
+      "themeColor": "#22c55e",
+      "heroImage": "/media/apsaraa-home.png",
+      "role": "R&D & Development",
+      "year": "2024",
+      "gallery": [
+        {
+          "src": "/projects/apsaraa/1.png",
+          "caption": "Reference Photo & Drive Link Input"
+        }
+      ],
+      "liveUrl": "https://apsaraa.vercel.app",
+      "stackGroups": {
+        "frontend": ["React,Tailwind"],
+        "backend": ["Python, OpenCV"]
+      }
+    },
+    {
+      "num": "02",
+      "slug": "ai-voice-assistant",
+      "name": "RevBot",
+      "description": "Real-time AI voice assistant providing low-latency, bidirectional audio interaction powered by Gemini Live API.",
+      "stack": [
+        "Next.js",
+        "Node.js",
+        "Express",
+        "WebSocket",
+        "Gemini Live API"
+      ],
+      "repo": "https://github.com/099rahulyadav/RevBot",
+      "logo": "/projects/apsaraa/revbot.png",
+      "accent": "#4285f4",
+      "themeColor": "#34a853",
+      "heroImage": "/projects/apsaraa/rev-home.png",
+      "role": "Full Stack Development",
+      "year": "2026",
+      "gallery": [
+        {
+          "src": "/projects/apsaraa/rev-home.png",
+          "caption": "Real-time Voice Interface"
+        }
+      ],
+      "liveUrl": "https://rev-bot.vercel.app/",
+      "stackGroups": {
+        "frontend": ["Next.js", "Web Audio API", "Tailwind CSS"],
+        "backend": ["Node.js", "Express", "WebSocket (ws)"],
+        "ai": ["Gemini Live API", "Google Gen AI SDK"]
+      }
+    },
+    {
+      "num": "03",
+      "slug": "quick-doc",
+      "name": "QuickDoc",
+      "description": "Fast, responsive document viewer and processing frontend built with React and Tailwind CSS.",
+      "stack": ["React", "Vite", "Tailwind CSS", "JavaScript"],
+      "repo": "https://github.com/099rahulyadav/QuickDoc",
+      "logo": "/projects/apsaraa/quick-logo.svg",
+      "accent": "#2563eb",
+      "themeColor": "#3b82f6",
+      "heroImage": "/projects/apsaraa/quick-home.png",
+      "role": "Frontend Development",
+      "year": "2026",
+      "gallery": [
+        {
+          "src": "/projects/apsaraa/q1.png",
+          "caption": "Mobile & Desktop Responsive Layout"
+        }
+      ],
+      "liveUrl": "https://quick-doc-wine.vercel.app",
+      "stackGroups": {
+        "frontend": ["React", "Vite", "Tailwind CSS"],
+        "deployment": ["Vercel"]
+      }
+    },
+{
+    "num": "04",
+    "slug": "credential-management",
+    "name": "Badge Management Platform",
+    "description": "Enterprise platform featuring RBAC workflows for User, Admin, and Super Admin roles with integrated Microsoft OAuth 2.0 authentication.",
+    "stack": [
+      "Next.js",
+      "Node.js",
+      "Express",
+      "Microsoft OAuth",
+      "RBAC",
+      "PostgreSQL"
+    ],
+    "repo": "",
+    "logo": "",
+    "accent": "#0078d4",
+    "themeColor": "#2563eb",
+    "heroImage": "",
+    "role": "Full Stack Development",
+    "year": "2026",
+    "gallery": [
+    ],
+    "stackGroups": {
+      "frontend": [
+        "Next.js",
+        "Tailwind CSS",
+        "Shadcn UI"
+      ],
+      "backend": [
+        "Node.js",
+        "Express",
+        "Microsoft OAuth 2.0"
+      ],
+      "database": [
+        "PostgreSQL"
+      ]
+    }
+  },
+{
+    "num": "05",
+    "slug": "indoor-navigation-floor-plan",
+    "name": "FloorMAP",
+    "description": "Interactive SVG-based floor plan module using Dijkstra's shortest-path algorithm for real-time cabin and workspace navigation.",
+    "stack": [
+      "Next.js",
+      "React",
+      "TypeScript",
+      "Tailwind CSS",
+      "Dijkstra Algorithm",
+      "SVG"
+    ],
+    "repo": "",
+    "logo": "",
+    "accent": "#10b981",
+    "themeColor": "#059669",
+    "heroImage": "",
+    "role": "Frontend Architecture",
+    "year": "2026",
+    "gallery": [
+    ],
+    "stackGroups": {
+      "frontend": [
+        "Next.js",
+        "TypeScript",
+        "Tailwind CSS",
+        "Framer Motion"
+      ],
+      "algorithms": [
+        "Dijkstra's Shortest Path Algorithm"
+      ]
+    }
+  }
+  ]
+}

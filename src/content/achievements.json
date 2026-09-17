@@ -1,0 +1,34 @@
+{
+  "content": {
+    "eyebrow": "/ Achievements",
+    "heading": "Achievements",
+    "subtitle": "— Certificates & credentials",
+    "categoryOrder": [
+      "Hackathons",
+      "Courses"
+    ],
+    "items": [
+      {
+        "id": "01",
+        "title": "Learn JAVA Programming - Beginner to Master",
+        "issuer": "Udemy",
+        "category": "Courses",
+        "image": "/media/java.jpg"
+      },
+      {
+        "id": "02",
+        "title": "Programming in Python",
+        "issuer": "Coursera",
+        "category": "Courses",
+        "image": "/media/coursera.jpg"
+      },
+      {
+        "id": "03",
+        "title": "AI-ML (Expert Level)",
+        "issuer": "Nasscom",
+        "category": "Courses",
+        "image": "/media/NASSCOM.jpg"
+      }
+    ]
+  }
+}
