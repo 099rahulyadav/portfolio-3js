@@ -124,6 +124,15 @@ export const Navbar = function ({ nav: e }) {
                 <ScrambleText.ScrambleText>{e.label}</ScrambleText.ScrambleText>
               </Link.default>
             ))}
+            <a
+              data-nav-item={true}
+              href={e.resume.href}
+              download={e.resume.filename}
+              aria-label="Download resume (PDF)"
+              className="text-xs font-medium uppercase tracking-[0.15em] text-white sm:text-sm"
+            >
+              <ScrambleText.ScrambleText>{e.resume.label}</ScrambleText.ScrambleText>
+            </a>
           </nav>
           <Link.default
             data-nav-item={true}
@@ -196,6 +205,16 @@ export const Navbar = function ({ nav: e }) {
               {e.label}
             </Link.default>
           ))}
+          <a
+            href={e.resume.href}
+            download={e.resume.filename}
+            aria-label="Download resume (PDF)"
+            tabIndex={E ? 0 : -1}
+            onClick={() => w(false)}
+            className="text-2xl font-medium uppercase tracking-[0.2em] text-zinc-300 transition-colors hover:text-white"
+          >
+            {e.resume.label}
+          </a>
         </div>
       </jsxRuntime.Fragment>
     )

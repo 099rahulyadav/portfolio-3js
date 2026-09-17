@@ -1,5 +1,10 @@
 {
   "nav": {
+    "resume": {
+      "label": "Resume",
+      "href": "/Rahul-Yadav-Resume.pdf",
+      "filename": "Rahul-Yadav-Resume.pdf"
+    },
     "wordmark": {
       "logo": "/rahul-logo.png",
       "alt": "Rahul Yadav",
